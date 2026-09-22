@@ -37,13 +37,6 @@ AWS Certified AI Practitioner AIF-C01/
 
 O conteúdo está em construção e será atualizado conforme os estudos avancem.
 
-## Como contribuir
-
-1. Crie uma branch para sua alteração.
-2. Faça commits pequenos e descritivos.
-3. Atualize ou adicione o material correspondente.
-4. Abra um Pull Request para revisão.
-
 ## Observação
 
 Este repositório é um material pessoal de estudo e não substitui a documentação
